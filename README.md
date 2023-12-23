@@ -1,6 +1,6 @@
 # Spotify playlist creator app
 
-![Preview](public/Screenshot.png)
+![Preview](Screenshot.png)
 
 ## Link
 
